@@ -26,7 +26,7 @@ def show_result(url):
     print(x)
 
 
-show_result("https://google.com")
+# show_result("Enter your domain here")
 
 
 
